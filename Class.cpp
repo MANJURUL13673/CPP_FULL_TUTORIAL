@@ -7,6 +7,7 @@ private:
 
 public:
 	Vector(int s) : elem{ new double[s] }, siz{ s } { }	//here initialize the private elements outside of the bracket
+	~Vector() { delete[] elem; }						//delete allocated memory using destructor
 	double& operator[](int i) { return elem[i]; }
 	int size() { return siz; }
 };
