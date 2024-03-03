@@ -4,3 +4,5 @@
 2. for loop traverse with rangin -> RangeFor.cpp
 3. Constructor initialization -> Class.cpp
 4. enum class vs enum	-> Enumeration.cpp
+5. try, catch, throw  -> Exception.cpp
+6. Exception vs Static Assert -> StaticAssert.cpp
