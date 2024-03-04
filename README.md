@@ -7,3 +7,4 @@
 5. try, catch, throw  -> Exception.cpp
 6. Exception vs Static Assert -> StaticAssert.cpp
 7. const in method and operator overloading -> OperatorOverloading.cpp
+8. initialize_list for vector class intialization -> InitializeList.cpp
